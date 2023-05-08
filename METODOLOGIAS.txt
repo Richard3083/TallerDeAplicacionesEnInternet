@@ -23,6 +23,7 @@ Modelo en espiral: Este modelo es iterativo y se enfoca en la identificación te
 		   Cada iteración del modelo implica un ciclo completo de planificación, análisis, diseño, construcción y evaluación.
 
 
+
 JUAN RICHARD POMA GUTIERREZ:
 ---------------------
 2: METODOLOGIAS AGILES
